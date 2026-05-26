@@ -1,0 +1,8 @@
+{
+  "name": "Dobadoba",
+  "description": "The premier social media platform for Malawi. Seamlessly blending feed updates, vertical reels, instant chat, local market listings with mobile money integration, community groups, events, and dynamic localization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
